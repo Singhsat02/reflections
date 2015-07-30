@@ -1,2 +1,5 @@
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 staging area is like a preworking area. Repository is the final result. This offers a buffer between the repository and changes being made
+
+How can you use the staging area to make sure you have one commit per logical change?
+By checking changes in the staging area vs the last commit 
