@@ -9,3 +9,6 @@ Different versions of a game/languge. Branches allow for multple versions of fil
 
 How do the diagrams help you visualize the branch structure?
 Easier to see what commits are part of each branch
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+The head of both branches becomes the master. So that we know what commits are implemented. 
