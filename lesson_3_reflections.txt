@@ -3,3 +3,6 @@ Its a good way backup your work. Also great for when you're working with others 
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 You may have made change locally that you dont want to Git to overide.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Forks are copies of repos on github, clones are copies of repos locally, branches are a commits that are not connect to master.
