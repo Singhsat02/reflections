@@ -6,3 +6,6 @@ You may have made change locally that you dont want to Git to overide.
 
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 Forks are copies of repos on github, clones are copies of repos locally, branches are a commits that are not connect to master.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+You can go back and check the changes that have been made from the last sync with github.
